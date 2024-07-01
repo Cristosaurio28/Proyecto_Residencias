@@ -1,0 +1,17 @@
+body{
+    background: url(/imagenes/1716574226025.jpg); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+    height: 100vh;
+}
+input .boton{
+        margin-left: auto;
+        margin-right: auto;
+        display: flex;
+        justify-content: center;
+    }
+card-body{
+    background-color: #4968a4;
+    color: #4968a4;
+}
